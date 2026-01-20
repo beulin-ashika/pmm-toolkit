@@ -1184,7 +1184,7 @@ function FrameworkSelector() {
                   />
                   <div className="radio-content">
                     <div className="radio-title">Small Team / Limited Budget</div>
-                    <div className="radio-description">1-2 marketers, limited sales team, <$500K budget</div>
+                    <div className="radio-description">1-2 marketers, limited sales team, &lt;$500K budget</div>
                   </div>
                 </label>
                 <label className="radio-option">
